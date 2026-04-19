@@ -1,0 +1,9 @@
+kagglehub
+tensorflow
+tensorflowjs
+numpy
+opencv-python
+pandas
+matplotlib
+seaborn
+pillow
