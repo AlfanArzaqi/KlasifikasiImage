@@ -1,6 +1,7 @@
 kagglehub
 tensorflow
 tensorflowjs
+split-folders
 numpy
 opencv-python
 pandas
